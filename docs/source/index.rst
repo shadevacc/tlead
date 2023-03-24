@@ -17,6 +17,7 @@ Contents
 --------
 
 .. toctree::
+   tleading/tlead
 
    usage
    api
